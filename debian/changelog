@@ -1,4 +1,4 @@
-embloader (0.5) unstable; urgency=medium
+embloader (0.5-1) unstable; urgency=medium
 
   3610cf0 embloader: linux: add dtbo on error actions
   a262058 embloader: sdboot: menu.c: default to load from current device
